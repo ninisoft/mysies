@@ -1,0 +1,3 @@
+admin:password
+PlcmSpIp:PlcmSpIp
+admin:administrator

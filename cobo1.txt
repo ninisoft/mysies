@@ -1,3 +1,2 @@
 admin:admin
-root:root
 ubnt:ubnt
